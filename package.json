@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/drilluuid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Drill and reshape uuid text streams with deterministic transforms.",
+  "bin": {
+    "drilluuid": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/drilluuid.git"
+  },
+  "homepage": "https://theworker02.github.io/drilluuid/",
+  "keywords": [
+    "drill",
+    "uuid",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
